@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Basics
 
 ```sh
@@ -52,3 +53,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# astro-blog
+Creating a blog with Astro. I Will Add TailwindCSS, React Js and Typescript.  
+>>>>>>> a4d48950450bed4e5581f05c115fadf7f552cd5b
